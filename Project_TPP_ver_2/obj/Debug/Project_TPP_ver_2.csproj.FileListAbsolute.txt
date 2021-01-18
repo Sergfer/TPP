@@ -1,0 +1,11 @@
+C:\Users\Sergey\source\repos\Project_TPP_ver_2\Project_TPP_ver_2\bin\Debug\Project_TPP_ver_2.exe.config
+C:\Users\Sergey\source\repos\Project_TPP_ver_2\Project_TPP_ver_2\bin\Debug\Project_TPP_ver_2.exe
+C:\Users\Sergey\source\repos\Project_TPP_ver_2\Project_TPP_ver_2\bin\Debug\Project_TPP_ver_2.pdb
+C:\Users\Sergey\source\repos\Project_TPP_ver_2\Project_TPP_ver_2\obj\Debug\Project_TPP_ver_2.csprojAssemblyReference.cache
+C:\Users\Sergey\source\repos\Project_TPP_ver_2\Project_TPP_ver_2\obj\Debug\Project_TPP_ver_2.Properties.Resources.resources
+C:\Users\Sergey\source\repos\Project_TPP_ver_2\Project_TPP_ver_2\obj\Debug\Project_TPP_ver_2.csproj.GenerateResource.cache
+C:\Users\Sergey\source\repos\Project_TPP_ver_2\Project_TPP_ver_2\obj\Debug\Project_TPP_ver_2.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\Project_TPP_ver_2\Project_TPP_ver_2\obj\Debug\Project_TPP_ver_2.exe
+C:\Users\Sergey\source\repos\Project_TPP_ver_2\Project_TPP_ver_2\obj\Debug\Project_TPP_ver_2.pdb
+C:\Users\Sergey\source\repos\Project_TPP_ver_2\Project_TPP_ver_2\obj\Debug\Project_TPP_ver_2.Radius.resources
+C:\Users\Sergey\source\repos\Project_TPP_ver_2\Project_TPP_ver_2\obj\Debug\Project_TPP_ver_2.Polygons.resources
